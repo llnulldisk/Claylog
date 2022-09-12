@@ -1,0 +1,11 @@
+main: com.github.claythve.claylog.Claylog
+name: Claylog
+version: 1.0.0
+description: Claylog
+api-version: 1.16
+author: Claythve
+website: https://github.com/Claythve
+commands:
+  sayhello:
+    description: Say hello
+    usage: /sayhello
